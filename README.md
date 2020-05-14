@@ -1,5 +1,5 @@
 # Sigmoid_Function_Deep_Learning
 
-sigmoid is non-linear function used for working with non-linear datasets
-accuracy on trainig data = 78.03%
-accuracy on test data = 77.90%
+1) sigmoid is non-linear function used for working with non-linear datasets
+2) accuracy on trainig data = 78.03%
+3) accuracy on test data = 77.90%
